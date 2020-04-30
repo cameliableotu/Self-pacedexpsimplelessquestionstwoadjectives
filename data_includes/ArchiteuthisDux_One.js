@@ -182,7 +182,7 @@ var items = [
 [["ATTRAGREEROMANIAN-matchheadsg",20],DS, {s:"Profesorul talentat de lângă studentul masterand uneori au numeroase realizări mari."}],
 [["ATTRAGREEROMANIAN-mismatchheadsg",20],DS, {s:"Profesorul talentat de lângă studenţii masteranzi uneori au numeroase realizări mari."}],
 [["ATTRAGREEROMANIAN-matchheadpl",20],DS, {s:"Profesorii talentaţi de lângă studenţii masteranzi uneori au numeroase realizări mari."}],
-[["ATTRAGREEROMANIAN-mismatchheadpl",20],DS, {s:" Profesorii talentaţi de lângă studentul masterand uneori au numeroase realizări mari."}],
+[["ATTRAGREEROMANIAN-mismatchheadpl",20],DS, {s:"Profesorii talentaţi de lângă studentul masterand uneori au numeroase realizări mari."}],
 [["ATTRAGREEROMANIAN-matchheadsg",21],DS, {s:"Cârnatul gustos de lângă hangiul local mereu au sare grunjoasă multă."},"QuestionAlt", {q: "Cine/ce are sare grunjoasă multă ?", as: ["Cârnatul","Hangiul"]}],
 [["ATTRAGREEROMANIAN-mismatchheadsg",21],DS, {s:"Cârnatul gustos de lângă hangiii locali mereu au sare grunjoasă multă."},"QuestionAlt", {q: "Cine/ce are sare grunjoasă multă?", as: ["Cârnatul","Hangiii"]}],
 [["ATTRAGREEROMANIAN-matchheadpl",21],DS, {s:"Cârnaţii gustoşi de lângă hangiii locali mereu au sare grunjoasă multă."},"QuestionAlt", {q: "Cine/ce are sare grunjoasă multă?", as: ["Cârnaţii","Hangiii"]}],
